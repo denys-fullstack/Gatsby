@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "test",
+  "author": "StarDev0819",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.11.1",
+    "gatsby-plugin-sass": "^5.11.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.49.11"
+  }
+}
